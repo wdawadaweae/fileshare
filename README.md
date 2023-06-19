@@ -1,2 +1,4 @@
-# fileshare
-schl prjct
+# FILESHARE
+; using czmq
+- Client
+- Server
